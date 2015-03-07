@@ -99,7 +99,7 @@ public class Locker {
 		this.lock = lock;
 	} 
 	
-	/*some more methods to for the class	
+	/*some more instance methods 	
 	 * 
 	 */
 	public void printCurrentState(){
